@@ -1,0 +1,44 @@
+<resources>
+
+	<string name="app_name">Book It</string>
+	<string name="title_home">Home</string>
+	<string name="title_dashboard">Dashboard</string>
+	<string name="title_notifications">Notifications</string>
+	<string name="all">All</string>
+	<string name="Cafe">Cafe</string>
+	<string name="American">American</string>
+	<string name="Italian">Italian</string>
+	<string name="Japanese">Japanese</string>
+
+	<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAar8K_cBG9RLqD354IZw32PabuSldesDE</string>
+	<string name="title_activity_maps">MapsActivity</string>
+
+
+	<string name="seat_1">Seat 1</string>
+	<string name="seat_2">Seat 2</string>
+	<string name="seat_3">Seat 3</string>
+	<string name="seat_4">Seat 4</string>
+	<string name="seat_5">Seat 5</string>
+	<string name="seat_6">Seat 6</string>
+	<string name="reserveButton">Reserve</string>
+
+	<string name="title_activity_login">LoginActivity</string>
+	<string name="title_map">Map</string>
+	<string name="bookitlogo">BookItLogo</string>
+	<string name="welcome_to_bookit">Welcome to BookIt!</string>
+	<string name="email">Email</string>
+	<string name="password">Password</string>
+	<string name="login">Login</string>
+	<string name="continue_with_google">Continue with Google</string>
+	<string name="or">- or -</string>
+	<string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+	<string name="image">image</string>
+	<string name="japanese_category">Japanese Category</string>
+	<string name="show_all_restaurants">Show all Restaurants</string>
+	<string name="american_category">American Category</string>
+	<string name="italian_category">Italian Category</string>
+	<string name="textview">TextView</string>
+	<string name="book_now">Book Now</string>
+
+
+</resources>

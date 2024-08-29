@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "643485737440",
+    "project_id": "cp470-bookit",
+    "storage_bucket": "cp470-bookit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643485737440:android:e4dbf34cfaed2768af0b85",
+        "android_client_info": {
+          "package_name": "com.cp470.bookit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643485737440-7q9t7sfihepd7bor3dt38dbpp5aoog4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cp470.bookit",
+            "certificate_hash": "1bda94ccab934937a591dc7e9e388e2043aa8c49"
+          }
+        },
+        {
+          "client_id": "643485737440-qnlkbtmm21gq0npmmbpk6hovl2aqvo8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE62xjyQ-xKPozmPbvcI6zp2O4ONH2OQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643485737440-qnlkbtmm21gq0npmmbpk6hovl2aqvo8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

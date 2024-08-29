@@ -1,0 +1,14 @@
+<resources>
+	<!-- Base application theme. -->
+	<style name="Theme.BookIt" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+		<!-- Primary brand color. -->
+		<item name="colorPrimary">@color/red</item>
+		<item name="colorOnPrimary">@color/white</item>
+		<!-- Secondary brand color. -->
+		<item name="colorSecondary">@color/grey</item>
+		<item name="colorOnSecondary">@color/black</item>
+		<!-- Status bar color. -->
+
+		<!-- Customize your theme here. -->
+	</style>
+</resources>
